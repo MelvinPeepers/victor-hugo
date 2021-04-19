@@ -2,7 +2,7 @@
 title: 'tech'
 date: 2018-11-14T19:02:50-07:00
 draft: false
-
+---
 
 # [Victor Hugo](https://github.com/netlify-templates/victor-hugo)
 
@@ -14,4 +14,4 @@ This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site gene
 
 ## Enjoy!! 😸
 
----
+
