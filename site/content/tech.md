@@ -15,4 +15,7 @@ This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site gene
 
 ## Enjoy!! 😸
 
-
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
